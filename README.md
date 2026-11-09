@@ -18,3 +18,27 @@ En mis proyectos académicos he desarrollado sitios web y prototipos de interfac
 - **Programación:** Python y Java.
 - **Bases de datos y análisis:** MySQL, MATLAB y R.
 - **Control de versiones:** Git y GitHub.
+
+## Proyectos destacados
+
+### Mercado Nocturno de Artesanías – Barrio Chino de Guayaquil
+
+Sitio web desarrollado en equipo para DAWM. Documenta una feria local y reúne información sobre los artesanos y las opiniones de quienes participaron.
+
+**Tecnologías:** HTML, CSS y JavaScript.
+
+- Calendario de actividades y secciones sobre los puestos de artesanías.
+- Galería fotográfica y resultados de las encuestas a participantes.
+
+[Repositorio](https://github.com/antivsan796/mercado-nocturno-artesanias) · [GitHub Pages](https://antivsan796.github.io/mercado-nocturno-artesanias/)
+
+### Dashboard del Clima
+
+Prototipo de una interfaz para presentar información meteorológica.
+
+**Tecnologías:** React, TypeScript, Vite y Material UI (MUI).
+
+- Diseño adaptable con componentes reutilizables para el encabezado y las alertas meteorológicas de ejemplo.
+- Espacios en la interfaz para incorporar el selector, los indicadores, un gráfico y una tabla.
+
+[Repositorio](https://github.com/antivsan796/Dashboard)
