@@ -42,3 +42,7 @@ Prototipo de una interfaz para presentar información meteorológica.
 - Espacios en la interfaz para incorporar el selector, los indicadores, un gráfico y una tabla.
 
 [Repositorio](https://github.com/antivsan796/Dashboard)
+
+## Contacto
+
+Puedes encontrarme en [GitHub](https://github.com/antivsan796).
